@@ -44,11 +44,13 @@ The NexPlayer™ Plugin for Unreal supports Builds for WebGL applications.
 To build the application the first time on a new project with Nexplayer’s Template do the following:
 
 - In the Unreal editor, select the scene object with the NexPlayer Blueprint and insert the corresponding WebGL key. 
+
 ![](../assets/platforms/web1.png)
 
 - Go to File → Refresh Visual Studio Project and then  File → Package Project → HTML5. Select a destination folder outside the Unreal project directory. Let it complete the packaging of the project.
 
 - Go to the Plugins\NexPlayerUnreal\Build\HTML5 directory and copy the project_template.html and paste it in the newly created Build\HTML5 on the project’s root folder.
+
 ![](../assets/platforms/web2.png)
 
 - Package the project one more time like in step 2.
@@ -57,6 +59,7 @@ This process is only necessary the first time the project is builded. For all th
 
 
 To open the WebGL on a local server, execute the HTML5LaunchHelper.exe on your build folder. To visualize it, open the web browser and introduce localhost:XXXX, with the port number that is indicated in the HTML5LaunchHelper console.
+
 ![](../assets/platforms/web3.png)
 
 ### Build with Custom Template
