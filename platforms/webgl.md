@@ -1,7 +1,7 @@
 # WebGL
 
-> Minimum browsers version, Google Chrome 75, Mozilla Firefox 67, Opera 12, Microsoft Edge 18 and Apple Safari 12.1.
-> Only support for Unreal 4.22 and 4.23.
+> **Minimum browsers version**, Google Chrome 75, Mozilla Firefox 67, Opera 12, Microsoft Edge 18 and Apple Safari 12.1.
+> **Supported Unreal versions** 4.22 and 4.23.
 
 ---
 ## Detailed feature list
