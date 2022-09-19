@@ -13,6 +13,6 @@ Feel free to contact us to request a demo
 
 * support@nexplayer.com
 
-## NexPlayer SDK for Android Release Notes
+## NexPlayer SDK for Unreal Release Notes
 
 ### Version X
