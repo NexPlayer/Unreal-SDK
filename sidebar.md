@@ -14,7 +14,6 @@
 	- [WebGL](/platforms/webgl.md)
 - [Introduction](/introduction.md)
 - [Legal notes](/legal-notes.md)
-- [Player information](/releases.md)
 - [Technical support information](/technical-support.md)
 
 **Links**
