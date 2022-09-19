@@ -9,7 +9,6 @@
 	- [Unreal Editor](/basic/unreal-editor.md)
 - [Platforms](/platforms/platforms.md)
 	- [Windows](/platforms/windows.md)
-	- [Mac](/platforms/mac.md)
 	- [Android](/platforms/android.md)
 		- [Oculus](/platforms/oculus.md)
 	- [iOS](/platforms/ios.md)
