@@ -12,7 +12,7 @@
 	- DASH (.mpd)
 
 #### Rendering Mode  
-- RawImage (*Unity UI*)	
+- RawImage (*Unreal UI*)	
 
 #### Sound Playback Control
 - Mute volume

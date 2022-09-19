@@ -39,7 +39,7 @@
 ## Build Configuration
 
 If this is your first time setting up an unreal for ios project in Windows editor please keep in mind the following:
-To create a new IPA file that includes the NexPlayer™ Plugin for Unity, the default configurations must be changed.  
+To create a new IPA file that includes the NexPlayer™ Plugin for Unreal, the default configurations must be changed.  
 
 ### Setting up an Unreal for IOS on Windows Editor
 

@@ -36,5 +36,4 @@
 - Play Video on multiple objects
 
 ---
-## Build Configuration
 

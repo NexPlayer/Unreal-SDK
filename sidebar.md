@@ -10,13 +10,12 @@
 - [Platforms](/platforms/platforms.md)
 	- [Windows](/platforms/windows.md)
 	- [Android](/platforms/android.md)
-		- [Oculus](/platforms/oculus.md)
 	- [iOS](/platforms/ios.md)
 	- [WebGL](/platforms/webgl.md)
 - [Introduction](/introduction.md)
 - [Legal notes](/legal-notes.md)
 - [Player information](/releases.md)
-- [Technical support information](/technical-support-information.md)
+- [Technical support information](/technical-support.md)
 
 **Links**
 - [<img src="https://nexplayer.github.io/iOS-SDK/asset/linkedin.svg">LinkedIn](https://www.linkedin.com/company/nexstreaming/)
