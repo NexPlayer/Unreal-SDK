@@ -1,6 +1,6 @@
 <img width="70%" text-align="center" src="./assets/logo.png" alt="NexPlayer" >
 
-# NexPlayer SDK for Unreal
+# NexPlayer™ SDK for Unreal
 You can check our full documentation here:
 
 https://nexplayer.github.io/Unreal-SDK/
@@ -13,7 +13,7 @@ Feel free to contact us to request a demo
 
 * support@nexplayer.com
 
-## NexPlayer SDK for Unreal Release Notes
+## NexPlayer™ SDK for Unreal Release Notes
 
 ### Version 1.0.0
 - [IOS]

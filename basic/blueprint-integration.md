@@ -128,7 +128,7 @@ The NexPlayer™ video player is correctly set and ready to use. It can be trigg
 
 ![](../assets/basic/blue26.png)
 
-### Destroy NexPlayer Blueprint Actor
+### Destroy NexPlayer™ Blueprint Actor
 
 The following configuration in the Blueprint Visual Script is required to destroy the NexPlayer™ video player instance:
 

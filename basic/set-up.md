@@ -20,13 +20,13 @@ Copy the NexPlayerUnreal folder to the Plugins folder of your project. If you do
 
 ![](../assets/basic/setup3.png)
 
-### Enable the NexPlayer SDK plugin
+### Enable the NexPlayer™ SDK plugin
 
 - Open the Unreal Engine project and click on Edit → Plugins…
 
 ![](../assets/basic/setup4.png)
 
-- Search for NexPlayerUnreal. It will appear under Built-In/Video or Project/Video, depending if NexPlayer was downloaded from the UE Marketplace or not:
+- Search for NexPlayerUnreal. It will appear under Built-In/Video or Project/Video, depending if NexPlayer™ was downloaded from the UE Marketplace or not:
 
 ![](../assets/basic/setup5.png)
 
@@ -36,6 +36,6 @@ Copy the NexPlayerUnreal folder to the Plugins folder of your project. If you do
 
 ![](../assets/basic/setup6.png)
 
-- After restarting the Unreal Engine Editor, the plugin will be included in the project. The plugin resources can be accessible pressing Content Browser → View Options and checking “Show Engine Content” or “Show Plugin Content”, depending if NexPlayer was downloaded from the UE Marketplace or not:
+- After restarting the Unreal Engine Editor, the plugin will be included in the project. The plugin resources can be accessible pressing Content Browser → View Options and checking “Show Engine Content” or “Show Plugin Content”, depending if NexPlayer™ was downloaded from the UE Marketplace or not:
 
 ![](../assets/basic/setup7.png)

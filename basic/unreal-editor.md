@@ -2,13 +2,13 @@
 
 The NexPlayer™ Plugin for Unreal Engine gives developers the option to integrate all the functionalities of the player from the Unreal Editor.
 
-## NexPlayer Editor Overview
+## NexPlayer™ Editor Overview
 
 The BP_NexPlayer blueprint has a NexPlayer™ category that can be accessed from the Details window selecting the actor:
 
 ![](../assets/basic/editor1.png)
 
-The NexPlayer category has the following input variables:
+The NexPlayer™ category has the following input variables:
 
 ![](../assets/basic/editor2.png)
 

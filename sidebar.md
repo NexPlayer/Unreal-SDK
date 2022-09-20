@@ -1,4 +1,4 @@
-- [NexPlayer SDK for Unreal](/introduction.md)
+- [NexPlayer™ SDK for Unreal](/introduction.md)
 - [Getting Started](/basic/getting-started.md) 
 	- [Setup Guide](/basic/set-up.md.md)
 	- [Quicks start guide](/basic/quickstart-guide.md)

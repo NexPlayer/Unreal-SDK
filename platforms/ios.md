@@ -266,7 +266,7 @@ For executing the .ipa file in your Iphone, open ITunes and drag the .ipa to you
 
 ![](../assets/platforms/ios29.png)
 
-NexPlayer is compatible with Metal v2.0 and Metal v2.1.
+NexPlayer™ is compatible with Metal v2.0 and Metal v2.1.
 Metal Desktop Renderer function can also be added.
 
 - To package the project, go to File → Package Project → IOS and select the folder destination.

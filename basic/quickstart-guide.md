@@ -1,7 +1,7 @@
 # Quickstart Guide
 ## Render a Video in a Static Mesh Actor
 
-The NexPlayer™ Plugin for Unreal Engine provides a way to insert a streaming video in any Static Mesh Actor. After importing the NexPlayer Plugin into the Unreal Engine project, you should perform the following steps:
+The NexPlayer™ Plugin for Unreal Engine provides a way to insert a streaming video in any Static Mesh Actor. After importing the NexPlayer™ Plugin into the Unreal Engine project, you should perform the following steps:
 
 It can be used with Unreal Engine version 4.22.3 and above, following these steps:
 

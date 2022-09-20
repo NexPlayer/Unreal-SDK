@@ -1,13 +1,13 @@
-# NexPlayer SDK for Unreal
+# NexPlayer™ SDK for Unreal
 
-NexPlayer™ plugin for Unreal is a cross-platform video streaming player for Unreal games and apps that supports both standard and 360º video playback on Android, iOS, Windows and WebGL. NexPlayer for unreal is the only video player plugin that supports Widevine DRM-protected HLS & DASH streaming on Android & iOS devices. The NexPlayer™ plugin for unreal was developed in collaboration with the native NexPlayer™ SDK. Therefore, it has access to all of its features, e.g. Adaptive Bitrate, HLS, DASH, progressive download, 360º video, and more. The plugin was built to be fast and reliable without sacrificing performance, and it has proven compatibility with international standards.
+NexPlayer™ plugin for Unreal is a cross-platform video streaming player for Unreal games and apps that supports both standard and 360º video playback on Android, iOS, Windows and WebGL. NexPlayer™ for unreal is the only video player plugin that supports Widevine DRM-protected HLS & DASH streaming on Android & iOS devices. The NexPlayer™ plugin for unreal was developed in collaboration with the native NexPlayer™ SDK. Therefore, it has access to all of its features, e.g. Adaptive Bitrate, HLS, DASH, progressive download, 360º video, and more. The plugin was built to be fast and reliable without sacrificing performance, and it has proven compatibility with international standards.
 
 ## Legal Notices
 
 **Disclaimer for Intellectual Property**
 
-This product is designed for general purpose, and accordingly the customer is responsible for all or any of intellectual property licenses required for actual application. NexPlayer SDK S.L. does not provide any indemnification for any intellectual properties owned by third party.
+This product is designed for general purpose, and accordingly the customer is responsible for all or any of intellectual property licenses required for actual application. NexPlayer™ SDK S.L. does not provide any indemnification for any intellectual properties owned by third party.
 
 **Copyright**
 
-Copyright for all documents, drawings and programs related with this specification are owned by NexPlayer SDK S.L. All or any part of the specification shall not be reproduced nor distributed without prior written approval by NexPlayer SDK S.L. Content and configuration of all or any part of the specification shall not be modified nor distributed without prior written approval by NexPlayer SDK S.L.
+Copyright for all documents, drawings and programs related with this specification are owned by NexPlayer™ SDK S.L. All or any part of the specification shall not be reproduced nor distributed without prior written approval by NexPlayer™ SDK S.L. Content and configuration of all or any part of the specification shall not be modified nor distributed without prior written approval by NexPlayer™ SDK S.L.

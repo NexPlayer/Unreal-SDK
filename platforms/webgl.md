@@ -37,13 +37,13 @@
 
 ---
 ## Build Configuration
-### Build with NexPlayer Templates
+### Build with NexPlayer™ Templates
 
 The NexPlayer™ Plugin for Unreal supports Builds for WebGL applications.
 
 To build the application the first time on a new project with Nexplayer’s Template do the following:
 
-- In the Unreal editor, select the scene object with the NexPlayer Blueprint and insert the corresponding WebGL key. 
+- In the Unreal editor, select the scene object with the NexPlayer™ Blueprint and insert the corresponding WebGL key. 
 
 ![](../assets/platforms/web1.png)
 
@@ -76,7 +76,7 @@ If you want to create your own custom template, keep in mind that you need to in
 ```
 
 These 2 lines include the WebGL plugins which are necessary for the player to work in browsers.
-Then, follow the process detailed in section 4.3.2. Build with NexPlayer’s Template  to use NexPlayer in a custom template and build the application.
+Then, follow the process detailed in section 4.3.2. Build with NexPlayer’s Template  to use NexPlayer™ in a custom template and build the application.
 
 ### Browser Autoplay Policy
 
