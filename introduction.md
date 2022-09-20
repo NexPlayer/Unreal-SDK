@@ -1,6 +1,8 @@
 # NexPlayer™ SDK for Unreal
 
-NexPlayer™ plugin for Unreal is a cross-platform video streaming player for Unreal games and apps that supports both standard and 360º video playback on Android, iOS, Windows and WebGL. NexPlayer™ for unreal is the only video player plugin that supports Widevine DRM-protected HLS & DASH streaming on Android & iOS devices. The NexPlayer™ plugin for unreal was developed in collaboration with the native NexPlayer™ SDK. Therefore, it has access to all of its features, e.g. Adaptive Bitrate, HLS, DASH, progressive download, 360º video, and more. The plugin was built to be fast and reliable without sacrificing performance, and it has proven compatibility with international standards.
+NexPlayer™ Plugin for Unreal Engine is a powerful video streaming player that supports HLS and DASH Streaming on Android, iOS, HTML5 and Windows devices.  
+
+The NexPlayer™ Plugin for Unreal Engine was developed in collaboration with the native NexPlayer™ SDK. Therefore, it has access to all of its features, ex. Intelligent Adaptive Bitrate Streaming (ABR). 
 
 ## Legal Notices
 
