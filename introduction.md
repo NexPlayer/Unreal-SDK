@@ -4,6 +4,17 @@ NexPlayer™ Plugin for Unreal Engine is a powerful video streaming player that 
 
 The NexPlayer™ Plugin for Unreal Engine was developed in collaboration with the native NexPlayer™ SDK. Therefore, it has access to all of its features, ex. Intelligent Adaptive Bitrate Streaming (ABR). 
 
+#### Operating Systems
+
+- Unreal 4.22 and above
+
+#### Platforms
+
+- Android
+- iOS
+- Windows
+- WebGL
+
 ## Legal Notices
 
 **Disclaimer for Intellectual Property**
