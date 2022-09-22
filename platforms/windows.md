@@ -67,4 +67,13 @@ Supported Graphics APIs: DirectX 11.
 - MPEG-4
 
 ---
+## Build Configuration
+The NexPlayer™ Plugin for Unity supports Standalone Builds for Windows.
 
+Unreal 5: Platforms → Windows → your device
+
+![](../assets/platforms/win1.png)
+
+Unreal 4: File → Windows → select architecture
+
+![](../assets/platforms/win2.png)
