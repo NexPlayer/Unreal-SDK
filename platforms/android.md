@@ -38,7 +38,7 @@
 ---
 ## Build Configuration
 
-The NexPlayer™ Plugin for Unity supports builds for Android applications.
+The NexPlayer™ Plugin for Unreal supports builds for Android applications.
 
 -  set your ndk: project setting → platforms → Andrid SDK
 
