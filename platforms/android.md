@@ -36,4 +36,24 @@
 - Play Video on multiple objects
 
 ---
+## Build Configuration
 
+The NexPlayer™ Plugin for Unity supports builds for Android applications.
+
+-  set your ndk: project setting → platforms → Andrid SDK
+
+![](../assets/platforms/and1.png)
+
+- Configure Android platform : Project settings → platforms → Android
+
+- click apply now.
+
+![](../assets/platforms/and2.png)
+
+Unreal 5: Platforms → platforms → Android → Package Proyect
+
+![](../assets/platforms/and3.png)
+
+Unreal 4: Platforms → File → Package Proyect → android
+
+![](../assets/platforms/and4.png)
