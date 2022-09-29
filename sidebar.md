@@ -3,7 +3,7 @@
 	- [Setup Guide](/basic/set-up.md.md)
 	- [Quicks start guide](/basic/quickstart-guide.md)
 	- [BluePrint Integration](/basic/blueprint-integration.md)
-	- [Example Proyect](/basic/example-proyect.md)  
+	- [Example Project](/basic/example-project.md)  
 	- [Code Integration](/basic/code-int.md)  
 	- [Getting started](/basic/getting-started.md)  
 	- [Unreal Editor](/basic/unreal-editor.md)
