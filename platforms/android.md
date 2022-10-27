@@ -50,10 +50,10 @@ The NexPlayer™ Plugin for Unreal supports builds for Android applications.
 
 ![](../assets/platforms/and2.png)
 
-Unreal 5: Platforms → platforms → Android → Package Proyect
+Unreal 5: Platforms → platforms → Android → Package Project
 
 ![](../assets/platforms/and3.png)
 
-Unreal 4: Platforms → File → Package Proyect → android
+Unreal 4: Platforms → File → Package Project → android
 
 ![](../assets/platforms/and4.png)

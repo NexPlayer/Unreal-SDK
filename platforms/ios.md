@@ -1,7 +1,6 @@
 # iOS
 
-> **Minimum API level**: iOS 11.0.  
-**Minimum API level for VR features**: iOS 11.0.  
+> **Minimum API level**: iOS 12.0.  
 **Supported Graphics APIs**: Metal v2.0 , Metal v2.1 and Metal Destop Renderer.
 **Supported Unreal versions** 4.22, 4.27 and 5.X.
 
@@ -10,6 +9,8 @@
 #### Media Source
 - Streams (*External URL*)
 	- HLS (.m3u8)
+	- DASH (.mpd)
+	- MP4 (.mp4)
 
 #### Rendering Mode  
 - Material Override (*material's MainTexture*)
@@ -23,17 +24,17 @@
 - Resume Media
 - Stop Media
 - Close Player
-- Seek
 - AutoPlay
 - Loop
 
 #### Advanced Features
-- Custom tags metadata
+- Custom tags metadata (ID3)
 
 #### Miscellaneous
 - 360 Media Playback
 - Stereoscopic 360 Media Playback
-- Play Video on multiple objects
+- Play video on multiple objects
+- Play video on UMG UI
 
 ---
 ## Build Configuration
@@ -45,10 +46,10 @@ To create a new IPA file that includes the NexPlayer™ Plugin for Unreal, the d
 
 #### Windows
 
-- **Unreal Engine 4.27 or higher** (Lower versions like 4.22 or 4.23 have a licensing bug building for IOS [IOS 14.5 breaks all Unreal apps made on Windows](https://forums.unrealengine.com/t/ios-14-5-breaks-all-unreal-apps-made-on-windows-and-temporary-workaround/228561/16))
-- Iphone with **IOS 14 or lower** (Unreal 4 is not compatible with higher IOS versions [iOS Device Compatibility](https://docs.unrealengine.com/4.26/en-US/SharingAndReleasing/Mobile/iOS/DeviceCompatibility/#:~:text=Unreal%20Engine%204%20(UE4)%20currently,14%2C%2013%2C%20and%2012.))
-- **Mac OS** with **Xcode** (If your Xcode version is 13, it might throw an error when packaging. If that is the case, downgrade your Xcode version to 12.5 [IOS packaging error The Legacy Build System](https://forums.unrealengine.com/t/ios-packaging-error-the-legacy-build-system-will-be-removed-in-a-future-release-you-can-configure-the-selected-build-system-and-this-deprecation-message-in-file-workspace-settings/489094/7)) 
-- **ITunes app.** (It is important that you download the ITunes app from the official website, and not from the Windows Store. Otherwise, Unreal won’t detect it [iTunes for Windows](https://support.apple.com/es-es/HT210384)) 
+- **Unreal Engine 4.27 or higher** (Lower versions like 4.22 or 4.23 have a licensing bug building for IOS. [IOS 14.5 breaks all Unreal apps made on Windows](https://forums.unrealengine.com/t/ios-14-5-breaks-all-unreal-apps-made-on-windows-and-temporary-workaround/228561/16)).
+- Iphone with **IOS 14 or lower** (Unreal 4 is not compatible with higher IOS versions. [iOS Device Compatibility](https://docs.unrealengine.com/4.26/en-US/SharingAndReleasing/Mobile/iOS/DeviceCompatibility/#:~:text=Unreal%20Engine%204%20(UE4)%20currently,14%2C%2013%2C%20and%2012.)).
+- **Mac OS** with **Xcode**.
+- **ITunes app.** (It is important that you download the ITunes app from the official website, and not from the Windows Store. Otherwise, Unreal won’t detect it. [iTunes for Windows](https://support.apple.com/es-es/HT210384)).
 
 #### IOS
 

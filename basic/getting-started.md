@@ -6,6 +6,6 @@ You can refer to below integration guides to setup your project and start playin
 - [Quicks start guide](/basic/quickstart-guide.md)
 - [BluePrint Integration](/basic/blueprint-integration.md)
 - [Code Integration](/basic/code-integration.md)
-- [Example Proyect](/basic/example-proyect.md)
+- [Example Project](/basic/example-project.md)
 - [Getting started](/basic/getting-started.md)
 - [Unreal Editor](/basic/unreal-editor.md)
