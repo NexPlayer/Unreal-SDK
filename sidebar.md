@@ -5,7 +5,6 @@
 	- [BluePrint Integration](/basic/blueprint-integration.md)
 	- [Example Project](/basic/example-project.md)  
 	- [Code Integration](/basic/code-int.md)  
-	- [Getting started](/basic/getting-started.md)  
 	- [Unreal Editor](/basic/unreal-editor.md)
 - [Platforms](/platforms/platforms.md)
 	- [Windows](/platforms/windows.md)
