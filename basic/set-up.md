@@ -10,6 +10,10 @@ Open the file NexPlayerUnreal\NexPlayerUnreal.uplugin with any code editor. Then
 
 ![](../assets/basic/setup1.png)
 
+If you have any problems packaging the Plugin in the **Plugins** window, please add the desired platforms as **WhitelistPlatforms** to the NexPlayerUnreal.uplugin.
+
+![](../assets/basic/Whitelist.png)
+
 If you are using Unreal Engine 4.24, you will need to go to **Modules** and remove the **HTML5** option from **WhitelistPlatforms**.
 
 ![](../assets/basic/setup2.png)
