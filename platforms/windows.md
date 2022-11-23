@@ -5,6 +5,7 @@ Minimum CPU: Intel Core i7-4710MQ x64.
 Minimum Memory: 8GB RAM.  
 Minimum GPU: NVIDIA GeForce 840M 2GB.  
 Supported Graphics APIs: DirectX 11.
+> **Supported Unreal versions** 4.22, 4.23, 4.24, 4.25, 4.26, 4.27 , 5.0, 5.1.
 
 ---
 ## Detailed feature list

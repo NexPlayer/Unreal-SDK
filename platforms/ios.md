@@ -2,7 +2,7 @@
 
 > **Minimum API level**: iOS 12.0.  
 **Supported Graphics APIs**: Metal v2.0 , Metal v2.1 and Metal Destop Renderer.
-**Supported Unreal versions** 4.22, 4.27 and 5.X.
+**Supported Unreal versions** 4.22, 4.27 and 5.0.
 
 ---
 ## Detailed Feature list
