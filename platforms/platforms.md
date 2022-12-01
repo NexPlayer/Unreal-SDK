@@ -14,7 +14,7 @@ You can refer to below integration guides to setup your project on the desired p
 	**Minimum API level**: 19 (Android 4.4 KitKat).  
 	**Minimum API level for VR features**: 21 (Android 5 Lollipop).  
 	**Supported Graphics APIs**: OpenGL ES  3.0 and OpenGL ES 2.0.  
-	**Supported Unreal versions**: 4.22, 4.23, 4.24, 4.25, 4.26, 4.27 , 5.0, 5.1.
+	**Supported Unreal versions**: 4.22, 4.23, 4.24, 4.25, 4.26, 4.27, 5.0, 5.1.
 - [iOS](/platforms/ios.md)  
 	**Minimum API level**: iOS 11.0.  
 	**Minimum API level for VR features**: iOS 11.0.  

@@ -2,7 +2,7 @@
 ## SDK Installation
 
 The NexPlayer™ Plugin for Unreal Engine example project can be downloaded from the following links: 
-- [NexPlayerSDK Unreal Example Project v0.8.0 (Android, Windows and WebGL)](https://customer.nexplayersdk.com/download.php?id=1323&token=f096DpDJUUCYWGXSTkpql6P9alEgF5GS)
+- [NexPlayerSDK Unreal Example Project v1.0.0 (Android, Windows and WebGL)](https://customer.nexplayersdk.com/download.php?id=1517&token=fqfoyrmxT22q4Nrx87BTqCAN4sllAvTk)
 
 - [NexPlayerSDK Unreal Example Project v1.0.0 (iOS)](https://customer.nexplayersdk.com/download.php?id=1392&token=FgKim8ZkWJ5MFTw6pMIFbHu2mrmu8T69)
 
